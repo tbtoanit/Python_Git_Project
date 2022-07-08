@@ -22,3 +22,4 @@ def kiem_tra_so_nguyen():
                 break
 
 kiem_tra_so_nguyen()
+print("Chức năng của toan tran")
