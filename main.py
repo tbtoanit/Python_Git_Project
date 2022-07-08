@@ -23,3 +23,4 @@ def kiem_tra_so_nguyen():
 
 kiem_tra_so_nguyen()
 print("Chức năng của toan tran")
+print("Thêm chức năng thứ 2 của toàn trần")
