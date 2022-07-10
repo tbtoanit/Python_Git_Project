@@ -29,3 +29,5 @@ print("Thêm chức năng thứ 2 của toàn trần")
 
 # thêm dòng code mới
 print("Thêm dòng code mới !")
+
+print('code cua Thai')
