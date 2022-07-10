@@ -29,3 +29,4 @@ print(kq)
 
 math.sqrt()
 
+print("Xin chao 1234")
