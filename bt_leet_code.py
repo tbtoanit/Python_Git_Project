@@ -29,4 +29,4 @@ print(kq)
 
 math.sqrt()
 
-print("Xin chao")
+print("Xin chao 1234")
