@@ -4,4 +4,8 @@
 
 from math import *
 delta = sqrt(9)
-print(delta)
+alpha = delta*delta
+#print(delta)
+
+# Thêm dòng code mới
+print('alpha = ', alpha, 'delta = ',delta)
