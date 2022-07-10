@@ -20,3 +20,4 @@ def kt_snt(a):
     return nguyen_to
 
 #Toan Tran chỉnh sửa 1 đoạn code
+#
