@@ -26,7 +26,7 @@ def letter_conbinations(value):
 
 kq = letter_conbinations("56")
 print(kq)
-
+#them 1 doan code
 math.sqrt()
 
 print("Xin chao 1234")
