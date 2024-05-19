@@ -22,3 +22,4 @@ def kt_snt(a):
 #Toan Tran chỉnh sửa 1 đoạn code
 #abc
 #Phan Thiên Khánh
+# nguyet
