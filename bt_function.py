@@ -19,7 +19,7 @@ def kt_snt(a):
             break #khi đã có 1 số chia hết, không còn số nguyên tố=> hệ thống ngừng=> thoát khỏi vòng lặp=>tiết kiệm Ram cho máy tính
     return nguyen_to
 
-#Toan Tran chỉnh sửa 1 đoạn code
+#Toan Tran chỉnh sửa 1 đoạn code2232543
 #abc
 #Phan Thiên Khánh
 # nguyet
