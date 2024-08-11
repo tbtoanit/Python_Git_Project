@@ -25,3 +25,4 @@ def kt_snt(a):
 # nguyet
 #huan
 #Thong
+print('hello Tho')
